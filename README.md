@@ -7,4 +7,4 @@ Here's what you'll learn:
 # Screenshot
 Here we have project screenshot :
 
-![screenshot-1](![![![Screenshot1.jpg])
+![image alt](https://github.com/rajatbhadauria012-hash/Mini-Music-Player-Coding-Arcade/blob/fe429c01686bc78f9302f1350a837b97dc925088/Screenshot_14-1-2026_11338_.jpeg)
