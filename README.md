@@ -7,5 +7,4 @@ Here's what you'll learn:
 # Screenshot
 Here we have project screenshot :
 
-![screenshot-1](![![![Screenshot1.jpg](https://github.com/user-attachments/assets/2166d2a7-7f46-4afa-a863-7772f889eda1)
-)
+![screenshot-1](![![![Screenshot1.jpg])
