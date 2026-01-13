@@ -7,4 +7,4 @@ Here's what you'll learn:
 # Screenshot
 Here we have project screenshot :
 
-![screenshot-1](![![Screenshot #1.jpeg)
+![screenshot-1](![![Screenshot1.jpg)
